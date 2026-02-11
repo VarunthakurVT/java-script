@@ -28,3 +28,14 @@ console.log(isFollow);
 // Redeclarable	Yes	        No	         No
 // Hoisting yes(initialized Yes (uninitialized)	Yes (uninitialized)
 // Initial Value:Optional	Optional	Required
+
+
+{
+    let a=23;
+    console.log(a);
+}//this is one block
+{
+    let a=343;
+    console.log(a);
+} //this is another block
+//mostly we use let or const in the new version of js
