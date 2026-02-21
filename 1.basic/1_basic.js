@@ -1,6 +1,7 @@
 //js is the extenstion of the js 
 console.log("Hello world");
 //console .log is used to print the output
+//use "" to print string
 //; is like a full stop in js not mendentory to write ; but good practice to : use
 
 //2 ) veriable is just like a container to store data 
